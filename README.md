@@ -60,7 +60,6 @@ img=cv2.imread('car.jpg',0)
 print(img.shape)
 ```
 iv) #To access rows and columns
-
 ```python3
 import cv2
 img = cv2.imread('car.jpg', 0)
@@ -87,18 +86,13 @@ cv2.destroyAllWindows()
 
 ### i) Read and display the image
 (![1 (2)](https://github.com/cssar41/COLOR_CONVERSIONS_OF-IMAGE/assets/159455133/c27ef15a-8bf5-4584-ac92-88955a72203f)
-
 ### ii)Write the image
 ![3](https://github.com/cssar41/COLOR_CONVERSIONS_OF-IMAGE/assets/159455133/17fb257f-fd12-434f-bac1-8e83df32ac13)
-
 ### iii)Shape of the Image
 ![4](https://github.com/cssar41/COLOR_CONVERSIONS_OF-IMAGE/assets/159455133/9aeac698-2e15-43bf-9c4d-e04ce2315a0c)
-
 ### iv)Access rows and columns
 ![5 (2)](https://github.com/cssar41/COLOR_CONVERSIONS_OF-IMAGE/assets/159455133/f0c391ca-b63e-4fff-9e09-b87a6e4d065e)
-
 ### v)Cut and paste portion of image
-
 ![6 (2)](https://github.com/cssar41/COLOR_CONVERSIONS_OF-IMAGE/assets/159455133/54fe06f8-67d5-4069-b791-be87a3218f01)
 
 
